@@ -5,8 +5,8 @@
 name: Plugin-bump-asf-reference
 
 on:
-  schedule:
-  - cron: '17 1 * * *'
+  # schedule:
+  # - cron: '17 1 * * *'
 
   workflow_dispatch:
 
